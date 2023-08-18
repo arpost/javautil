@@ -1,5 +1,7 @@
 # Javautil
-[Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
+[Andrew Post](http://www.andrewrpost.com), Salt Lake City, UT
+
+Derived from software previously developed by me and my team at the [Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
 
 ## What does it do?
 It is a utility library to accelerate the development of Java software. It is used throughout Eureka! Clinical projects, but it is designed to be useful to other projects as well. While we use the Apache Commons libraries when possible, when we find a gap in those libraries, we fill the gap by adding to this project.
@@ -75,4 +77,4 @@ The project uses the maven build tool. Typically, you build it by invoking `mvn 
 * [Javadoc for latest development release](http://javadoc.io/doc/org.eurekaclinical/javautil) [![Javadocs](http://javadoc.io/badge/org.eurekaclinical/javautil.svg)](http://javadoc.io/doc/org.eurekaclinical/javautil)
 
 ## Getting help
-Feel free to contact us at help@eurekaclinical.org.
+Feel free to contact the author at andrew.post55@gmail.com.
